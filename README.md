@@ -18,9 +18,9 @@ Matplotlib — визуализация результатов
 SAS.Planet — источник тайлов карт (внешний инструмент) 
 Установка:
 1. Клонируйте репозиторий:
-git clone https://github.com/Shapalaaah/project-name.git
+git clone https://github.com/Shapalaaah/Coordinate-determination-system.git
 2.Перейдите в директорию проекта:
-cd project-name
+cd Coordinate-determination-system.git
 3.Установите необходимые библиотеки:
 pip install -r requirements.txt
 Структура проекта:
